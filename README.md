@@ -1,7 +1,5 @@
 ![Hey, I'm Matthew Atkins](https://ik.imagekit.io/n7nxxqwkxic/atkins_codes/ma-cover.png?updatedAt=1729108687385)
 
-![Profile views](https://komarev.com/ghpvc/?username=matthewatkins&label=Profile%20views&color=0e75b6&style=flat)
-
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
@@ -17,11 +15,6 @@
 
  **<h3 align="left">Full-stack JavaScript web developer. Skilled in both front-end and back-end technologies. With a background in design and big on user experience.</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: **Building boatplanet.com and stackweight.app**
-- 🌱 I'm currently learning: **Bun and Hono**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, Design Systems**
 - 📂 Portfolio: **<a href="https://www.atkins.codes" target="_blank">https://www.atkins.codes</a>**
 
  **<h3 align="left">Skills</h3>**
