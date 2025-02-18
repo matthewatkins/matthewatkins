@@ -17,10 +17,6 @@
 
 - 📂 Portfolio: **<a href="https://www.atkins.codes" target="_blank">https://www.atkins.codes</a>**
 
- **<h3 align="left">Skills</h3>**
-
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: left;"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="36" alt="TypeScript" style="margin-right: 12px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="36" alt="JavaScript" style="margin-right: 12px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="36" alt="PostgreSQL" style="margin-right: 12px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="36" alt="MySQL" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="36" alt="Redis" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="36" alt="Docker" style="margin-right: 12px"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="36" alt="GitHub Actions" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Drizzle-4F5D95?logo=drizzle&logoColor=white" height="36" alt="Drizzle" style="margin-right: 12px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="36" alt="React" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="36" alt="Vue" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="36" alt="Node.js" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Bun-FFDF00?logo=bun&logoColor=White" height="36" alt="Bun" style="margin-right: 12px"></div>
-
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
